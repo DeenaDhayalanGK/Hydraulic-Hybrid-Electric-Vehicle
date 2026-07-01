@@ -127,18 +127,8 @@ Hydraulic-Hybrid-Electric-Vehicle
 ├── README.md
 ├── Code/
 ├── Hydraulic_Vehicle.jpeg
-└── Videos/
+
 ```
-
----
-
-# 📷 Working Prototype
-
-<p align="center">
-  <img src="Hydraulic_Vehicle.jpeg" width="750" alt="Hydraulic Hybrid Electric Vehicle Prototype">
-</p>
-
-The developed prototype successfully demonstrates automatic switching between hydraulic and electric propulsion based on accumulator pressure. The embedded controller continuously monitors the pressure sensor and actuates the Directional Control Valve (DCV) in real time to optimize energy utilization.
 
 ---
 
