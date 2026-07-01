@@ -9,7 +9,7 @@ The project focuses on **regenerative braking**, **automatic propulsion mode swi
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="Hydraulic_Vehicle_.jpeg" width="750" alt="Hydraulic Hybrid Electric Vehicle Prototype">
+  <img src="Hydraulic_vehicle_.jpeg" width="750" alt="Hydraulic Hybrid Electric Vehicle Prototype">
 </p>
 
 ---
